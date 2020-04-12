@@ -19,10 +19,10 @@ console.log(a);
 // console.log(something);
 
 // let persone = {
-//     name: "John",
+//     name: "John",                          это пример obj!!!!
 //     age: 25,
 //     isMarried: false
-// }
+// }  
 
 // console.log(persone.name);
 
