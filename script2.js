@@ -1,10 +1,20 @@
 'use strict';
-var a = 5;
-var b = 10;
+var a = 1;
 
-if (a < b) {
-    console.log("chetko");
-} 
-else {
-   console.log("mistake");
-}
+
+// if (a < b) {
+//     console.log("chetko");
+// } 
+// else {
+//    console.log("mistake");
+// }
+
+// while ( a < 10) {
+//     console.log(a);
+//     a++;
+// }
+
+do{ 
+    console.log(a);
+    a++;
+}while(a < 10);
